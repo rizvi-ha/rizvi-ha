@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hassan Rizvi, a 3rd-year Computer Science student at UCLA
+# Hi, I’m Hassan Rizvi, a 3rd-year CS student at UCLA
   
 - 👀 I’m interested in biotech, deep learning, systems programming, embedded programming, robotics and much much more
   
