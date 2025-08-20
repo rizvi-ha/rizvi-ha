@@ -1,8 +1,4 @@
-# Hi, I’m Hassan Rizvi, a 4th-year CS student at UCLA
-  
-- 👀 I’m broadly interested in software reliability, software architecture, systems programming, embedded programming, robotics and much much more
-  
-- 📘 In my free time I'm currently studying Mandarin, neuroscience, gardening, and the best restaurants in LA
+# Hi, I’m Hassan Rizvi
 
 Many of my personal projects and experiments live on this page. Feel free to check some of them out! (Be kind, some are still in-progress)
 
